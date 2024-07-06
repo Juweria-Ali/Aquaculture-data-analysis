@@ -17,16 +17,4 @@ f. Deleting instances.
 3. Additional exploratory data analysis of the dataset, highlighting any interesting information. Note that data exploration may involve the application of statistical functions and/or the use of visualisations. Prepare this new dataset for learning if needed.
 4. ONE other learning task different from tasks 1-3 and, ideally, it complements the work undertaken in previous tasks.
    
-## [(Part2): Model fitting, evaluation and deployment using R](https://github.com/Juweria-Ali/Part-2-Model-fitting-Model-Evaluation-Model-Deployment)
-Dataset has similar theme and context to that from Part 1 
 
-• but is cleaned and complete. 
-• has some renamed columns.
-• has some additional columns.
-
-Five tasks were carried out:
-1.Fit a logistic regression model to predict Cause.
-2.Fit another classification model of your choice to predict Cause.
-3.Fit a linear regression model to predict Number.
-4.Fit another regression model of your choice to predict Number.
-5.Deploy one model as part of a basic Shiny app to predict Cause.
